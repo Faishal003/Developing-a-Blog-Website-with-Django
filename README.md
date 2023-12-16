@@ -1,4 +1,5 @@
 # Developing a Blog Website with Django
+[![Image of my-views-counter](https://github.com/Faishal003/my-views-counter/blob/master/svg/731950256/badge.svg)](https://github.com/Faishal003/my-views-counter/blob/master/readme/731950256/week.md)
 # Features of this project💥
 * The user can log in and log out 🔐
 * The user can access his profile and change the profile info 💁
