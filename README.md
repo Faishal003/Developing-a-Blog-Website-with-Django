@@ -1,5 +1,5 @@
 # Developing a Blog Website with Django
-[![Image of my-views-counter](https://github.com/Faishal003/my-views-counter/blob/master/svg/731950256/badge.svg)](https://github.com/Faishal003/my-views-counter/blob/master/readme/731950256/week.md) ![Static Badge](https://img.shields.io/badge/python-3.10-blue?link=https%3A%2F%2Fwww.python.org%2Fdownloads%2Frelease%2Fpython-3100%2F)
+[![Image of my-views-counter](https://github.com/Faishal003/my-views-counter/blob/master/svg/731950256/badge.svg)](https://github.com/Faishal003/my-views-counter/blob/master/readme/731950256/week.md) ![Static Badge](https://img.shields.io/badge/python-3.10-blue?link=https%3A%2F%2Fwww.python.org%2Fdownloads%2Frelease%2Fpython-3100%2F) ![Static Badge](https://img.shields.io/badge/django-5.0-orange)
 # Features of this project💥
 * The user can log in and log out 🔐
 * The user can access his profile and change the profile info 💁
